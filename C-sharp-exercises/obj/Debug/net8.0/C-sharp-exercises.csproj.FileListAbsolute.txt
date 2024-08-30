@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\C-sharp-exercises\bin\Debug\net8.0\C-sharp-exercises.exe
+C:\Users\marco\source\repos\C-sharp-exercises\bin\Debug\net8.0\C-sharp-exercises.deps.json
+C:\Users\marco\source\repos\C-sharp-exercises\bin\Debug\net8.0\C-sharp-exercises.runtimeconfig.json
+C:\Users\marco\source\repos\C-sharp-exercises\bin\Debug\net8.0\C-sharp-exercises.dll
+C:\Users\marco\source\repos\C-sharp-exercises\bin\Debug\net8.0\C-sharp-exercises.pdb
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\C-sharp-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\C-sharp-exercises.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\C-sharp-exercises.AssemblyInfo.cs
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\C-sharp-exercises.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\C-sharp-exercises.dll
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\refint\C-sharp-exercises.dll
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\C-sharp-exercises.pdb
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\C-sharp-exercises.genruntimeconfig.cache
+C:\Users\marco\source\repos\C-sharp-exercises\obj\Debug\net8.0\ref\C-sharp-exercises.dll
+C:\Users\marco\source\repos\C-sharp-exercises\bin\Debug\net8.0\Logger\Data\logsEntry.json

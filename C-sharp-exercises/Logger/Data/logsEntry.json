@@ -1,0 +1,194 @@
+[
+  {
+    "ErrorMessage": "User logged in successfully",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Failed login attempt",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "System encountered an unexpected error",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "Database connection established",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Invalid user input detected",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "User logged out",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "File upload failed",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "User registration completed",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Password reset request received",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "API request rate limit exceeded",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "Service unavailable",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "New user added to the system",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Session timeout occurred",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "Database query executed successfully",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Failed to connect to the email server",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "User profile updated",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Missing required fields in form submission",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "User account locked due to multiple failed login attempts",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "Data export completed",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Unauthorized access attempt detected",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "System configuration updated",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "File not found",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "User password changed",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Invalid email address format",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "Scheduled backup completed",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Service response time exceeded threshold",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "Error while processing payment",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "User profile picture updated",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Failed to load user preferences",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "New software update available",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Session token expired",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "User consent received",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Database backup failed",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "Password strength validation passed",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Unexpected API response format",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "Error during file processing",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "User preferences saved",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Email notification sent",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "System maintenance scheduled",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "Failed to retrieve external data",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "New user login detected",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "API endpoint deprecated",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "Application started",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Error during configuration load",
+    "Flag": "ERROR"
+  },
+  {
+    "ErrorMessage": "User role updated",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "System resource limit reached",
+    "Flag": "WARNING"
+  },
+  {
+    "ErrorMessage": "Application shutdown initiated",
+    "Flag": "INFO"
+  },
+  {
+    "ErrorMessage": "Critical system error encountered",
+    "Flag": "ERROR"
+  }
+]

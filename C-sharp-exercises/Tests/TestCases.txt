@@ -1,6 +1,5 @@
 ﻿Test Scenarios for Logger:
 
-
 A. Test Case: Log a single message
 Input:
 - fileName: "application.log"

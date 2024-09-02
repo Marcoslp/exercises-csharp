@@ -1,0 +1,76 @@
+﻿Test Scenarios for Logger:
+
+
+A. Test Case: Log a single message
+Input:
+- fileName: "application.log"
+- message: "Test message"
+- severity: "INFO"
+
+Expected Output in File:
+"[2024-09-02 14:15:00] [INFO] Test message"
+
+Steps:
+1. Call the log_message function with the provided fileName, message, and severity.
+2. Open the application.log file.
+3. Verify that the file contains the log entry with the correct timestamp and severity level.
+
+
+B. Test Case: Log Multiple Messages
+Input:
+- fileName: "application.log"
+- messages: [("First log entry", "INFO"), ("Second log entry", "ERROR")]
+
+Expected Output in File:
+"[2024-09-02 14:18:00] [INFO] First log entry"
+"[2024-09-02 14:18:05] [ERROR] Second log entry"
+
+Steps:
+1. Call the log_message function twice with each message and corresponding severity.
+2. Open the application.log file.
+3. Ensure both log entries are present in the correct order, each with the appropriate timestamp and severity.
+
+
+C. Test Case: Log to a Non-Existent File
+
+Input:
+- fileName: "nonexistent.log"
+- message: "New file log entry"
+- severity: "INFO"
+
+Expected Output:
+1. Call the log_message function with the provided fileName, message, and severity.
+2. A new file named nonexistent.log is created, and it contains the log entry: "[2024-09-02 14:19:00] [INFO] New file log entry"
+
+
+D. Test Case: Log Special Characters in Message
+
+Input:
+- fileName: "application.log"
+- message: "Special chars: !@#$%^&*()"
+- severity: "INFO"
+
+Expected Output in File:
+"[2024-09-02 14:21:00] [INFO] Special chars: !@#$%^&*()"
+
+Steps:
+1. Call the log_message function with the provided fileName, message, and severity.
+2. Open the application.log file.
+3. Verify that the log entry correctly logs the message containing special characters with the correct timestamp and severity.
+
+
+E. Test Case: Verify Timestamp Accuracy
+
+Input:
+- fileName: "application.log"
+- message: "Timestamp check"
+- severity: "INFO"
+
+Expected Output in File:
+The timestamp in the log entry should match the system time when the log was written.
+
+Steps:
+1. Record the current system time.
+2. Call the log_message function with the provided fileName, message, and severity.
+3. Open the application.log file.
+4. Check that the timestamp in the log entry matches the recorded system time within an acceptable margin of error.
